@@ -1,0 +1,336 @@
+.All{
+    width:3.125rem;
+}
+.top_input{
+    display: flex;
+    width:3.125rem;
+    height:0.4rem;
+    padding:0.0625rem 0.125rem;
+    background:#f0f3f5;
+}
+.top_input input{
+    width:2.575rem;
+    height:0.2625rem;
+    outline: none;
+    border:none;
+    background:white;
+    padding-left: 0.025rem;
+}
+#icon-span{
+    width:0.2083rem;
+    height:0.2625rem;
+    background:white;
+    line-height:0.2625rem;
+    text-indent:0.0417rem;
+}
+.yhq{
+    width:3.125rem;
+    height:0.3167rem;
+    background:#f0f3f5;
+    padding:0.0208rem 0.125rem 0.1042rem 0.125rem;
+    color:#444;
+}
+.yhq span:nth-of-type(1){
+    font-size: 0.125rem;
+}
+.yhq-span2{
+    width:0.625rem;
+    height:0.175rem;
+    border:1px solid #ccc;
+    border-radius: 0.0625rem;
+    font-size: 0.05rem;
+    float:right;
+    line-height: 0.175rem;
+    text-align: center;
+}
+.temai{
+    width:3.125rem;
+    height:3.125rem;
+    padding:0.125rem;
+    font-size: 0.1167rem;
+    color:#333;
+   
+}
+.bg-line{
+    border-bottom: 0.0833rem #f0f3f5 solid ;
+}
+.temai-tit{
+    width:2.875rem;
+    height:0.175rem;
+}
+.temai-tit-span{
+    float:right;
+    color:#999;
+    font-size: 0.1rem;
+}
+.temai-tit-ul{
+    width:2.875rem;
+    height:0.575rem;
+    margin-top:0.1042rem;
+    display: flex;
+    justify-content: space-between;
+}
+.temai-tit-ul li{
+    width:0.4083rem;
+    height:0.575rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.temai-tit-ul img{
+    width:0.4rem;
+    height:0.4rem;
+}
+.temai-titi-ul2{
+    margin-top:0.0625rem;
+    width:2.875rem;
+    height:2.0416rem;
+  
+}
+.temai-titi-ul2 li{
+    width:0.9167rem;
+    height:0.9167rem;
+    margin:0.0625rem 0.0625rem 0 0;
+    position: relative;
+    float:left;
+}
+.temai-titi-ul2 li:nth-of-type(3n){
+    margin-right:0;
+}
+.temai-titi-ul2 li img:nth-of-type(1){
+    width:0.9167rem;
+    height:0.9167rem;
+}
+.temai-titi-ul2 li img:nth-of-type(2){
+    width:0.2917rem;
+    height:0.2917rem;
+    position: absolute;
+    left:0.4542rem;
+    top:0.1833rem;
+    right:0.3125rem;
+    margin-left:-0.1458rem;
+    border-radius: 0.5667rem;
+}
+.temai-titi-ul2 li .truble{
+    width:0.8333rem;
+    height:0.125rem;
+    position: absolute;
+    left:0.4542rem;
+    top:0.4992rem;
+    right:0.0417rem;
+    text-align: center;
+    margin-left:-0.4167rem;
+    font-size: 0.1167rem;
+    color:white;
+}
+.brandList{
+    width:0.7083rem;
+    height:0.125rem;
+    position: absolute;
+    left:0.36083rem;
+    top:0.7083rem;
+    right:0.1042rem;
+    margin-left:-0.2542rem;
+    color:white;
+    background:#ff4338;
+    text-align:center;
+    border-radius:0.05rem;
+    line-height:0.125rem;
+    font-size:0.05rem;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.bottom-goods-list{
+    width:100%;
+    padding-bottom:.6667rem;
+    
+}
+.bottom-goods-list-banner{
+    width:100%;
+    height:0.625rem;
+    padding:0 0.125rem;
+    margin-bottom: 0.125rem;
+    margin-top:0.0833rem;
+}
+.bottom-goods-list-banner img{
+    width:2.875rem;
+    height:0.625rem;
+    border-radius: 0.125rem;
+}
+
+
+
+
+  .fixed{
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+
+
+
+
+
+
+.discount-list-view-top{
+    width:100%;
+    background: white;
+    z-index:3;
+    /* position: relative;
+    /* top:0;
+    background:white;
+    z-index:3; */
+}
+.discount-list-menu{
+    width:3.125rem;
+    padding-left:0.0833rem;
+    padding-right:0.0833rem;
+    position: sticky;
+    top:0;
+    background:white;
+}
+.discount-nav{
+    width:100%;
+    height:0.3333rem;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.1083rem;
+    color:#333;
+    align-items: center;
+}
+.discount-nav li{
+    height:0.2333rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.discount-active{
+    color:#ff4338;
+}
+#iconfontSize{
+    font-size: 0.1967rem;
+}
+
+.discount-ul-goodslist{
+    overflow-y:scroll;
+    height:100%;
+    height:auto;
+    width:100%;
+    
+}
+.discount-ul-goodslist li{
+    border-bottom: 1px solid #e6e6e6;
+}
+.discount-Haden{
+    display: flex;
+    justify-content: center;
+    width:3.0417rem;
+    height:1.0042rem;
+    padding:0.0833rem 0.0833rem 0.0833rem 0.0833rem;
+   
+}
+.discount-Haden-img img{
+    width:0.8875rem;
+    height:0.8875rem;
+}
+.discount-Haden-right{
+    width:2.0333rem;
+    height:0.9375rem;
+    margin-left:0.0833rem;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.discount-Haden-right h2{
+    font-size: 0.125rem;
+    color:#333;
+}
+.discount-detail{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color:#ff4338;
+    font-size: 0.125rem;
+    font-family: Helvetica,sans-serif;
+}
+.discount-detail img{
+    width:0.075rem;
+    height:0.075rem;
+    margin:0 0.0417rem;
+}
+.discount-detail-span{
+    height:0.125rem;
+    padding:0 0.0417rem;
+    color:#999;
+    font-size: 0.05rem;
+    line-height: 0.125rem;
+}
+.menu-list-box{
+    width:100%;
+    height:2.3626rem;
+    background:white;
+    z-index:88;
+}
+.discount-mask{
+    width:100%;
+    /* height:37.5rem; */
+    /* background-color: rgba(14, 13, 13,0.5); */
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.5);
+    width: 100%;
+    height: 100%;
+    z-index: 87;
+}
+.tags-btn{
+    width:100%;
+    height:0.3667rem;
+    font-size:0.1167rem;
+    color:#333;
+    display: flex;
+    justify-content: space-between;
+    padding:0 0.0833rem;
+    align-items: center;
+}
+.tags-btn span:nth-of-type(2){
+    font-size: 0.1967rem;
+}
+.menu-list-box-ul{
+    width:100%;
+    height:0.7333rem;
+}
+.menu-list-box-ul li{
+    width:0.7792rem;
+    height:0.3667rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.1167rem;
+    float:left;
+}
+.discount-hotsearch{
+    width:100%;
+    height:0.175rem;
+    color:#999;
+    font-size: 0.1167rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-list-box-hotsearchul{
+    width:100%;
+    height:0.7333rem;
+}
+.menu-list-box-hotsearchul li{
+    width:0.7792rem;
+    height:0.3667rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.1167rem;
+    float:left;
+}
