@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>home_list</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="题库_切图" transform="translate(-178.000000, -64.000000)">
+            <g id="home_list" transform="translate(178.000000, 64.000000)">
+                <rect id="矩形-copy-5" fill-opacity="0.01" fill="#D8D8D8" x="0" y="0" width="32" height="32"></rect>
+                <path d="M23.8689145,21 L23.999847,28.7525401 C24.01175,29.4272608 23.3270463,29.9327822 22.608901,29.7791535 L16.0577379,28.3778107 L9.55702068,29.9644422 C8.84454344,30.1383125 8.14283553,29.6530327 8.13149938,28.977793 L8,21.2257719" id="Stroke-1" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M25.9990117,15.8761451 C26.0677517,20.293439 22.5418659,23.9308619 18.1241384,23.9990117 C13.7064109,24.0677541 10.0697116,20.5417414 10.0009716,16.1238549 C9.93282422,11.706561 13.4581174,8.06913812 17.8758449,8.0009883 C22.2935724,7.93224586 25.9302718,11.4582586 25.9990117,15.8761451" id="Fill-3" fill="#5CCCE5"></path>
+                <path d="M25.9987183,13.3373818 C26.0883928,19.1357234 21.461079,23.9090254 15.6628896,23.9987022 C9.86470027,24.0889465 5.09152364,19.4615112 5.00128166,13.662602 C4.91160723,7.86426044 9.53892103,3.09095847 15.3371104,3.00128169 C21.1352997,2.91160491 25.9084764,7.53904022 25.9987183,13.3373818 Z" id="Stroke-5" stroke="#4A4A4A" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

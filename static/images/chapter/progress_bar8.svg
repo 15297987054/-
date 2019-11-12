@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="232px" height="140px" viewBox="0 0 232 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>progress_bar8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="68.7749335%" y2="5.62458444%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-74.281851%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.2519136%" y1="21.5850565%" x2="31.015625%" y2="77.5878906%" id="linearGradient-3">
+            <stop stop-color="#FAC0C0" offset="0%"></stop>
+            <stop stop-color="#E95757" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="题库_切图" transform="translate(-977.000000, -596.000000)">
+            <g id="progress_bar8" transform="translate(977.000000, 596.000000)">
+                <rect id="矩形-copy-8" fill-opacity="0.01" fill="#D8D8D8" x="0" y="0" width="232" height="140"></rect>
+                <path d="M210,116 C210,64.0852335 167.914766,22 116,22 C64.0852335,22 22,64.0852335 22,116" id="路径" stroke="url(#linearGradient-1)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M196,117 C196,72.81722 160.18278,37 116,37 C71.81722,37 36,72.81722 36,117" id="路径-copy" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,6"></path>
+                <path d="M183,118 C183,82.1014913 153.003078,53 116,53 C78.9969218,53 49,82.1014913 49,118" id="路径-copy-2" fill="url(#linearGradient-2)"></path>
+                <circle id="椭圆形-copy-3" stroke="#FFFFFF" stroke-width="3" fill="url(#linearGradient-3)" cx="191" cy="58" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "van-radio": "/static/vant/radio/index",
+    "van-radio-group": "/static/vant/radio-group/index",
+    "van-popup": "/static/vant/popup/index",
+    "van-dialog": "/static/vant/dialog/index",
+    "van-icon": "/static/vant/icon/index",
+    "van-toast": "/static/vant/toast/index",
+    "van-tab": "/static/vant/tab/index",
+    "van-tabs": "/static/vant/tabs/index"
+  }
+}

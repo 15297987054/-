@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "刷题榜",
+  "usingComponents": {
+    "van-loading": "/static/vant/loading/index"
+  }
+}

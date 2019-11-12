@@ -1,0 +1,68 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/answer_results/main",
+    "pages/practice/main",
+    "pages/practice_select/main",
+    "pages/mine/main",
+    "pages/leader_board/main",
+    "pages/question_analysis/main",
+    "pages/feedback_corrective/main",
+    "pages/login/main",
+    "pages/chapter/main",
+    "pages/feedback/main",
+    "pages/wrongChapter/main",
+    "pages/wrong/main",
+    "pages/collectedChapter/main",
+    "pages/collectedCourse/main",
+    "pages/subject/main",
+    "pages/protocol/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "邦德-小题库",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#999",
+    "backgroundColor": "#fafafa",
+    "selectedColor": "#333",
+    "borderStyle": "white",
+    "list": [
+      {
+        "text": "题库",
+        "pagePath": "pages/index/main",
+        "iconPath": "static/tabs/tab_question_bank@2x.png",
+        "selectedIconPath": "static/tabs/tab_question_bank_selected@2x.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/mine/main",
+        "iconPath": "static/tabs/tab_mine@2x.png",
+        "selectedIconPath": "static/tabs/tab_mine_selected@2x.png"
+      }
+    ],
+    "items": [
+      {
+        "name": "题库",
+        "pagePath": "pages/index/main",
+        "icon": "static/tabs/tab_question_bank@2x.png",
+        "activeIcon": "static/tabs/tab_question_bank_selected@2x.png"
+      },
+      {
+        "name": "我的",
+        "pagePath": "pages/mine/main",
+        "icon": "static/tabs/tab_mine@2x.png",
+        "activeIcon": "static/tabs/tab_mine_selected@2x.png"
+      }
+    ],
+    "position": "bottom"
+  },
+  "usingComponents": {
+    "van-icon": "/static/vant/icon/index",
+    "van-toast": "/static/vant/toast/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}

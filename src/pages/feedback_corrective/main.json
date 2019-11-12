@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "爱刷题",
+  "usingComponents": {
+    "van-button": "/static/vant/button/index",
+    "van-toast": "/static/vant/toast/index"
+  }
+}

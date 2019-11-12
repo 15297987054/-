@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="题库_切图" transform="translate(-971.000000, -172.000000)" stroke="#D5D5D5">
+            <path d="M982,183.5 L982,183.5 L977.757359,187.742641 L982,183.5 L982,183.5 L986.242641,179.257359 L982,183.5 L982,183.5 L977.757359,179.257359 L982,183.5 L982,183.5 L986.242641,187.742641 L982,183.5 Z M982,193 C976.477153,193 972,188.522847 972,183 C972,177.477153 976.477153,173 982,173 C987.522847,173 992,177.477153 992,183 C992,188.522847 987.522847,193 982,193 Z" id="icon_close"></path>
+        </g>
+    </g>
+</svg>

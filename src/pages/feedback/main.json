@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "van-rate": "/static/vant/rate/index",
+    "van-button": "/static/vant/button/index"
+  },
+
+  "navigationBarTitleText": "意见反馈"
+}
+

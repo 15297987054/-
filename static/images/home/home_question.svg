@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>home_question </title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="题库_切图" transform="translate(-74.000000, -65.000000)">
+            <g id="home_question-" transform="translate(74.000000, 65.000000)">
+                <rect id="矩形-copy-3" fill-opacity="0.01" fill="#D8D8D8" x="0" y="0" width="32" height="32"></rect>
+                <path d="M22.82272,28.4 L19.40192,28.4 C16.97056,28.4 15,26.4464276 15,24.0353931 L15,14.3170207 C15,11.9326345 16.94944,10 19.35456,10 L27.8,10 L27.8,23.4656276 C27.8,26.1913655 25.57152,28.4 22.82272,28.4" id="Fill-1" fill="#5CCCE5"></path>
+                <path d="M23.1464889,28 L9.25351111,28 C6.904,28 5,26.1163077 5,23.7932308 L5,8.30153846 C5,5.92615385 6.94693333,4 9.34933333,4 L23.1464889,4 C25.4953778,4 27.4,5.88369231 27.4,8.20676923 L27.4,23.7932308 C27.4,26.1163077 25.4953778,28 23.1464889,28 Z" id="Stroke-3" stroke="#4A4A4A" stroke-width="1.874" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.4,28 L11.4,4" id="Stroke-5" stroke="#4A4A4A" stroke-width="1.593" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

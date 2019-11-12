@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "爱刷题",
+  "usingComponents": {
+    "van-popup": "/static/vant/popup/index",
+    "van-dialog": "/static/vant/dialog/index",
+    "van-notify": "/static/vant/notify/index",
+    "van-icon": "/static/vant/icon/index"
+  },
+  "enablePullDownRefresh": true
+}
