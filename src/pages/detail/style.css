@@ -1,0 +1,43 @@
+.box{
+  position: relative;
+}
+.detail{
+    font-size: 0.5rem;
+    width:0.2917rem;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    font-size: 0.5rem;
+    z-index: 9;
+    width:2.9583rem;
+    height:0.4667rem;
+    display: flex;
+    padding:20px 0px 20px 20px;
+    justify-content: space-between;
+    align-items: center;
+   border-bottom:10px solid #ccc;
+}
+.price{
+    font-size:29px;
+    width:1.95rem;
+    color:#ff4338;
+}
+.my-drawer {
+    position: absolute;
+    overflow: hidden;
+    top:-420px;
+    /* -webkit-overflow-scrolling: touch; */
+  }
+  .my-drawer .am-drawer-sidebar {
+    background-color: #fff;
+    overflow: hidden;
+    /* -webkit-overflow-scrolling: touch; */
+  }
+  .my-drawer .am-drawer-sidebar .am-list {
+    width: 100%;
+    padding: 0;
+  }
+ 
